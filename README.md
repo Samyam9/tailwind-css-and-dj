@@ -24,7 +24,7 @@ python manage.py tailwind init
 ```
 
 
-### Step 4: Name the Tailwind app (e.g. theme)
+### Step 4: Name the Tailwind app (e.g. theme). Then add this app, eg theme to installed_apps in settings.py
 
 
 ### Step 5: Add these two lines to settings.py
